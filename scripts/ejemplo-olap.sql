@@ -31,4 +31,5 @@ group by
     ciudad,
     ciudad_cliente,
     mes
+limit 3    
 ;
